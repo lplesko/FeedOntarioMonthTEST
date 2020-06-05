@@ -145,7 +145,7 @@ import { months, years } from "./constants";
     center: [ -85, 50 ],
     zoom: 4.5,
     highlightOptions: {
-      color: "#262626",
+      color: "#00e6e6",
       haloOpacity: 1,
       fillOpacity: 0
     }
