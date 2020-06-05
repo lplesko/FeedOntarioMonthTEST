@@ -135,7 +135,7 @@ import { months, years } from "./constants";
   });
 
   const map = new EsriMap({
-    basemap: "gray-vector",
+    basemap: "gray",
     layers: [ layer, districtsLayer ]
   });
 
